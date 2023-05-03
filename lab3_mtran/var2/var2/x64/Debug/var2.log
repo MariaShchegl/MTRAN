@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\Mary\Desktop\lab3_mtran\var2\var2\TextTable.h(105,30): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\Mary\Desktop\lab3_mtran\var2\var2\TextTable.h(108,1): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\Mary\Desktop\lab3_mtran\var2\var2\AstNode.h(31,25): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Mary\Desktop\lab3_mtran\var2\var2\AstNode.h(133,23): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  var2.vcxproj -> C:\Users\Mary\Desktop\lab3_mtran\var2\x64\Debug\var2.exe
